@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 1cebeeabee6909149b57fdac9b6e9a41
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthy_img: {fileID: 21300000, guid: 98fa5a09c156d704ba9e2fe153eb4b58, type: 3}
+  - healthy_selected_img: {fileID: 21300000, guid: 0c106d81d6ee4394bb7105dec7e0b789,
+      type: 3}
+  - infected_img: {fileID: 21300000, guid: 2e83691808fd4334ab3ee6e2d581d43b, type: 3}
+  - infected_selected_img: {fileID: 21300000, guid: fe6b2c57b6b3e9d4f810ca95e42af883,
+      type: 3}
+  - recovered_img: {fileID: 21300000, guid: b8f6be25804adf74990316a357a39204, type: 3}
+  - recovered_selected_img: {fileID: 21300000, guid: a886eeb2db54e8144959920a607fb56b,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
